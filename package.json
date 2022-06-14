@@ -1,0 +1,11 @@
+{
+  "name": "siglus-dom2image",
+  "version": "1.0.0",
+  "main": "dist/dom2image.js",
+  "repository": "https://github.com/tw-liuzhangren/dom2image.git",
+  "author": "tw-liuzhangren <zhangren.liu@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "1.8.14"
+  }
+}
