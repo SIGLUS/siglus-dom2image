@@ -1,4 +1,6 @@
 # siglus-dom2image
+- dom-to-image only for bower
+
 
 # how to use in siglus-ui?
 
