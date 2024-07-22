@@ -1,6 +1,6 @@
 {
   "name": "siglus-dom2image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/dom2image.js",
   "authors": [
