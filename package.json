@@ -1,9 +1,9 @@
 {
   "name": "siglus-dom2image",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/dom2image.js",
-  "repository": "https://github.com/tw-liuzhangren/dom2image.git",
-  "author": "tw-liuzhangren <zhangren.liu@thoughtworks.com>",
+  "repository": "https://github.com/SIGLUS/siglus-dom2image",
+  "author": "tw-gaoluoyang <luoyang.gao@thoughtworks.com>",
   "license": "MIT",
   "dependencies": {
     "bower": "1.8.14"
