@@ -1,10 +1,10 @@
 {
   "name": "siglus-dom2image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "dist/dom2image.js",
   "authors": [
-    "tw-gaoluoyang <luoyang.gao@thoughtworks.com>"
+    "luoyang-tw <luoyang.gao@thoughtworks.com>"
   ],
   "license": "MIT",
   "homepage": "https://github.com/SIGLUS/siglus-dom2image.git",

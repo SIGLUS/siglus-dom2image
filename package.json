@@ -1,6 +1,6 @@
 {
-  "name": "siglus-dom2image",
-  "version": "1.0.4",
+  "name": "@siglus/siglus-dom2image",
+  "version": "1.0.5",
   "main": "dist/dom2image.js",
   "repository": "https://github.com/SIGLUS/siglus-dom2image",
   "author": "tw-gaoluoyang <luoyang.gao@thoughtworks.com>",
